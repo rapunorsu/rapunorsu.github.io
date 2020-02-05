@@ -1,0 +1,60 @@
+.jumbotron {
+    background-color: white;
+    height: 450px;
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(img/jellyfish-3964165_1280.jpg);
+    background-position: 0px;
+    background-position-y: -50px;
+    justify-content: center;
+    text-align: right;
+    }
+
+     h1 {
+        color:white;
+        text-align: center;
+        font-size: 20px;
+        text-shadow: 2px 2px #000000;
+    }
+
+    .headertext {
+        color: white;
+        text-align: center;
+    }
+
+body {
+    justify-content: center;
+    max-width: 1200px;
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+    /* background-image: url(img/wood-591631_1920.jpg); */
+    background-color: black;
+    color: #467cbdf5;
+    }
+        
+        
+h1, h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    }
+        
+        
+.card {
+    background-color: rgba(20, 16, 15, 0.5)
+    }
+
+.card-img {
+    width:200px;
+}
+        
+        
+.lead, body {
+    text-align: center;
+    }
+        
+        
+.card-title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    }
+    
